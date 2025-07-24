@@ -37,6 +37,8 @@ function sortearAmigo(){
         alert('No hay amigos en tu lista :c')
         return
     }
+    let listaAmigos = document.querySelector('#listaAmigos')
+    listaAmigos.innerHTML = '';
     let lista = document.querySelector('#resultado');
     lista.innerHTML = '';
     let i = posicionSecreto();
