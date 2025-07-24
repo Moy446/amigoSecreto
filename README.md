@@ -1,4 +1,4 @@
-🎲 Selector Aleatorio de Amigos
+#🎲 Selector Aleatorio de Amigos
 Proyecto del curso de programacion basica en alura
 
 Una página web simple hecha con HTML, CSS y JavaScript puro (Vanilla JS) que permite al usuario:
@@ -9,24 +9,24 @@ Verlos listados dinámicamente en pantalla
 
 Elegir aleatoriamente a uno de ellos con un solo clic
 
-🧩 Tecnologías utilizadas
+##🧩 Tecnologías utilizadas
 HTML
 
 CSS
 
 JavaScript
 
-🚀 ¿Cómo funciona?
+##🚀 ¿Cómo funciona?
 El usuario ingresa nombres en un campo de texto.
 
 Cada nombre se agrega a una lista visible en la página.
 
 Al hacer clic en el botón "Elegir al azar", se selecciona y muestra uno de los nombres al azar.
 
-📁 Cómo usar
+##📁 Cómo usar
 Clona este repositorio:
 
-'''git clone https://github.com/tu-usuario/nombre-del-repo.git'''
+`git clone https://github.com/tu-usuario/nombre-del-repo.git`
 
 Abre el archivo index.html en tu navegador favorito.
 
