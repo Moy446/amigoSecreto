@@ -26,7 +26,7 @@ Al hacer clic en el botón "Elegir al azar", se selecciona y muestra uno de los 
 <h2>📁 Cómo usar</h2>
 Clona este repositorio:
 
-`git clone https://github.com/tu-usuario/nombre-del-repo.git`
+`git clone https://github.com/Moy446/amigoSecreto`
 
 Abre el archivo index.html en tu navegador favorito.
 
